@@ -4,11 +4,11 @@
 
 
                                     /*=================================================================*\
-                                    /* By: 			|	Pulse Development | 
+                                    /* By:              |	Pulse Development | 
 
                                     /* Ytb: 		|	**https://www.youtube.com/@PulseDev-FiveM**|	
 
-                                    /*Tiktok:       |   **https://www.tiktok.com/@fivem.pulsedev** |
+                                    /*Tiktok:           |   **https://www.tiktok.com/@fivem.pulsedev** |
 	
                                     /* Discord: 	|	**https://discord.gg/Uux22bhxu2** |
 
