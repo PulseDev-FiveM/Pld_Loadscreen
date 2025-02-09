@@ -4,7 +4,7 @@
 
 
                                   /*=================================================================*\
-                                    /* By:              |	Pulse Development | 
+                                    /* By:                      |Pulse Development | 
 
                                     /* Ytb: 		|	**https://www.youtube.com/@PulseDev-FiveM**|	
 
