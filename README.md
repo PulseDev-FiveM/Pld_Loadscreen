@@ -14,7 +14,7 @@
 
                  /* Discord: 	|	**https://discord.gg/Uux22bhxu2** |
     
-               /* Github:   	 |  **https://github.com/PulseDev-FiveM** |
+               /* Github:   	| **https://github.com/PulseDev-FiveM** |
 
     /*=================================================================*/
 
