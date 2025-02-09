@@ -3,7 +3,7 @@
 🇫🇷 Ce script a été conçu pour vous par PulseDev. Nous serions ravis de tout soutien sur notre **Discord : https://discord.gg/Uux22bhxu2**
 
 
-       /*=================================================================*\
+                                  /*=================================================================*\
                                     /* By:              |	Pulse Development | 
 
                                     /* Ytb: 		|	**https://www.youtube.com/@PulseDev-FiveM**|	
