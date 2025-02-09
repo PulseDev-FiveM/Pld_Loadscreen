@@ -3,18 +3,19 @@
 🇫🇷 Ce script a été conçu pour vous par PulseDev. Nous serions ravis de tout soutien sur notre **Discord : https://discord.gg/Uux22bhxu2**
 
 
-                                  /*=================================================================*\
-                                    /* By:                    | Pulse Development | 
+                                                     
+    /*=================================================================*\
+    /* By: 			|	Pulse Development | 
 
-                                    /* Ytb: 		| **https://www.youtube.com/@PulseDev-FiveM** |	
+    /* Ytb: 		|	**https://www.youtube.com/@PulseDev-FiveM**|	
 
-                                    /*Tiktok:           |   **https://www.tiktok.com/@fivem.pulsedev** |
-	
-                                    /* Discord: 	|	**https://discord.gg/Uux22bhxu2** |
+    /*Tiktok:       |   **https://www.tiktok.com/@fivem.pulsedev** |
 
-                                    /* Github:   	|   **https://github.com/PulseDev-FiveM** |
+    /* Discord: 	|	**https://discord.gg/Uux22bhxu2** |
+    
+    /* Github:   	|   **https://github.com/PulseDev-FiveM** |
 
-                                    /*=================================================================*/
+    /*=================================================================*/
 
 
 /* 🇬🇧 f you have any problems you can contact us via **discord**. <3     */
